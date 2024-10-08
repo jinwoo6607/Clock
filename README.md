@@ -1,5 +1,8 @@
 # Clock and timer,alam setting program
 
+User can see current time and can use timer and alarm function
+
+
 
 
 
